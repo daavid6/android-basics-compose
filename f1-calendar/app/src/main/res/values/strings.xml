@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">F1 Calendar</string>
+
+    <string name="bahrain">Bahrain</string>
+    <string name="saudi_arabia">Saudi Arabia</string>
+    <string name="australia">Australia</string>
+    <string name="japan">Japan</string>
+    <string name="china">China</string>
+    <string name="united_states">United States</string>
+    <string name="italy">Italy</string>
+    <string name="monaco">Monaco</string>
+    <string name="canada">Canada</string>
+    <string name="spain">Spain</string>
+    <string name="austria">Austria</string>
+    <string name="great_britain">Great Britain</string>
+    <string name="hungary">Hungary</string>
+    <string name="belgium">Belgium</string>
+    <string name="netherlands">Netherlands</string>
+    <string name="azerbaijan">Azerbaijan</string>
+    <string name="singapore">Singapore</string>
+    <string name="mexico">Mexico</string>
+    <string name="brazil">Brazil</string>
+    <string name="qatar">Qatar</string>
+    <string name="united_arab_emirates">United Arab Emirates</string>
+
+    <string name="_00_name">FORMULA 1 ARAMCO PRE-SEASON TESTING 2024</string>
+    <string name="_01_name">FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2024</string>
+    <string name="_02_name">FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2024</string>
+    <string name="_03_name">FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2024</string>
+    <string name="_04_name">FORMULA 1 MSC CRUISES JAPANESE GRAND PRIX 2024</string>
+    <string name="_05_name">FORMULA 1 LENOVO CHINESE GRAND PRIX 2024</string>
+    <string name="_06_name">FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2024</string>
+    <string name="_07_name">FORMULA 1 MSC CRUISES GRAN PREMIO DELL\'EMILIA-ROMAGNA 2024</string>
+    <string name="_08_name">FORMULA 1 GRAND PRIX DE MONACO 2024</string>
+    <string name="_09_name">FORMULA 1 GRAND PRIX DU CANADA 2024</string>
+    <string name="_10_name">FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2024</string>
+    <string name="_11_name">FORMULA 1 QATAR AIRWAYS AUSTRIAN GRAND PRIX 2024</string>
+    <string name="_12_name">FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2024</string>
+    <string name="_13_name">FORMULA 1 HUNGARIAN GRAND PRIX 2024</string>
+    <string name="_14_name">FORMULA 1 ROLEX BELGIAN GRAND PRIX 2024</string>
+    <string name="_15_name">FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024</string>
+    <string name="_16_name">FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024</string>
+    <string name="_17_name">FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2024</string>
+    <string name="_18_name">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024</string>
+    <string name="_19_name">FORMULA 1 PIRELLI UNITED STATES GRAND PRIX 2024</string>
+    <string name="_20_name">FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2024</string>
+    <string name="_21_name">FORMULA 1 LENOVO GRANDE PRÊMIO DE SÃO PAULO 2024</string>
+    <string name="_22_name">FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024</string>
+    <string name="_23_name">FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024</string>
+    <string name="_24_name">FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024</string>
+
+</resources>
