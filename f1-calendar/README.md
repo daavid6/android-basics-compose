@@ -1,5 +1,7 @@
 This app is a non-profit personal project.
 
+The official F1 web is https://www.formula1.com/ .
+
 As a Formula 1 fan, I created my own calendar to apply the knowledge acquired from the Android Basics with Compose course (Unit 3).
 
 The APK is available to download here: MyF1Calendar\app\build\outputs\apk
